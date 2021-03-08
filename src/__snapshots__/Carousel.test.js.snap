@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Carousel"
+  >
+    <h1>
+      Portfolio Projects:
+    </h1>
+    <div
+      class="Carousel-main"
+    >
+      <i
+        class="fas fa-chevron-circle-left fa-2x hidden"
+        data-testid="left-arrow"
+      />
+      <div
+        class="Card"
+      >
+        <h4
+          class="Card-title"
+        >
+          Credit Card Finder Web App built with Flask and PostgreSQL.
+        </h4>
+        <p
+          class="Card-description"
+        >
+          Compare more than 350 credit cards and find the card that maximizes the rewards dollar value of your everyday spending habits.
+        </p>
+        <a
+          href="https://cc-finder.herokuapp.com/"
+          target="_blank"
+        >
+          <img
+            alt="Credit Card Finder Web App built with Flask and PostgreSQL."
+            class="Card-image"
+            src="image1.jpg"
+          />
+        </a>
+        <small
+          class="Card-small"
+        >
+          Project 1 of 2.
+          <br />
+          Click on image to go to project's site.
+        </small>
+      </div>
+      <i
+        class="fas fa-chevron-circle-right fa-2x "
+        data-testid="right-arrow"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
